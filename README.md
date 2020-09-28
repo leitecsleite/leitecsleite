@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 -->
   # Lucas Leite :man_technologist: 
   
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-leite-56b2801b0/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <a>
-    
-   <a target="_blank" href="https://api.whatsapp.com/send?phone=5531993988990">
-   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-  </a>
-  <br>
-  <hr>
-  
-  ### HELLO 
+# Olá  :D
 
- 😄Olá, me chamo Lucas, estudante de Sistemas de Informação - Estacio, residente em Teresina -PI. 
- Apaixonado por tecnologia. 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leitecsleite)](https://github.com/leitecsleite)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-leite-56b2801b0/)](https://www.linkedin.com/in/lucas-leite-56b2801b0/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://]()
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://)](https://)
+
+### About me
+
+Eu sou Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
+
+- [Courses]Estudante de Sistemas de Informação-Estácio 
+
