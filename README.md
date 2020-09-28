@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ Olá, me chamo Lucas, estudante de Sistemas de Informação - Estacio, residente em Teresina -PI. 
+ Apaixonado por tecnologia. 
