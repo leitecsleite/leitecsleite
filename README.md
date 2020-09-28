@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **leitecsleite/leitecsleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    <a target="_blank" href="https://api.whatsapp.com/send?phone=5531993988990">
    <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
-
+  <br>
 
   
   ### HELLO 
