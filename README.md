@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-  Eu sou Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
+  olá me chamo Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
 
 - [Courses]Estudante de Sistemas de Informação-Estácio 
 - Estudando React Native 
