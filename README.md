@@ -18,7 +18,12 @@ Here are some ideas to get you started:
   
   <a target="_blank" href="https://www.linkedin.com/in/lucas-leite-56b2801b0/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <a>
+    
+   <a target="_blank" href="https://api.whatsapp.com/send?phone=5531993988990">
+   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  </a>
+
 
   
   ### HELLO 
