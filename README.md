@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
   # Lucas Leite :man_technologist: 
   
-  [![linkedin Badge](https://www.linkedin.com/in/lucas-leite-56b2801b0/)
+  <a target="_blank" href="https://www.linkedin.com/in/lucas-leite-56b2801b0/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
   
   ### HELLO 
 
