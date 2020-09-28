@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  # Lucas Leite :man_technologist: 
+  
+  [![linkedin Badge](https://www.linkedin.com/in/lucas-leite-56b2801b0/)
+  
+  ### HELLO 
 
-
- Olá, me chamo Lucas, estudante de Sistemas de Informação - Estacio, residente em Teresina -PI. 
+ 😄Olá, me chamo Lucas, estudante de Sistemas de Informação - Estacio, residente em Teresina -PI. 
  Apaixonado por tecnologia. 
