@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leitecsleite)](https://github.com/leitecsleite)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-leite-56b2801b0/)](https://www.linkedin.com/in/lucas-leite-56b2801b0/)
 
-### About me
+### About me 🕵
 
-  Olá me chamo Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
+   Olá me chamo Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
   💼Busco uma oportunidade de estágio em Desenvolvimento Web Front-End. 
 
 - [Courses]Estudante de Sistemas de Informação-Estácio 
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 - Cursando progrmação estruturada em C
 
 
-### Habilidade 
+### Habilidade 👨‍🔧
 
--HTML5
--CSS3
--JavaScript
--PHP
--BOOTSTRAP 
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- BOOTSTRAP 
 - MySQL
--jQuery
--Java Basico
+- jQuery
+- Java Basico
 
