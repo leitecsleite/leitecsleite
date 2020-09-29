@@ -24,6 +24,23 @@ Here are some ideas to get you started:
 ### About me
 
   Olá me chamo Lucas, residente em Teresina-Piauí, apaixonado por tecnologia.
+  💼Busco uma oportunidade de estágio em Desenvolvimento Web Front-End. 
 
 - [Courses]Estudante de Sistemas de Informação-Estácio 
-- Estudando React Native 
+- Estudando React Native
+- Estuando Angula
+- Estutando Java 
+- Cursando progrmação estruturada em C
+
+
+### Habilidade 
+
+-HTML5
+-CSS3
+-JavaScript
+-PHP
+-BOOTSTRAP 
+- MySQL
+-jQuery
+-Java Basico
+
