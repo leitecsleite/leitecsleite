@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 - [Courses]Estudante de Sistemas de Informação-Estácio 
 - Estudando React Native
-- Estuando Angula
-- Estutando Java 
-- Cursando progrmação estruturada em C
+- Estudando Angula
+- Estudando Java 
+- Cursando programação estruturada em C
 
 
-### Habilidade 👨‍🔧
+### Habilidades 👨‍🔧
 
 - HTML5
 - CSS3
