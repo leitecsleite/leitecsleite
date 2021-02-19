@@ -28,19 +28,15 @@ Here are some ideas to get you started:
 
 - [Courses]Estudante de Sistemas de Informação-Estácio 
 - Estudando React Native
-- Estudando Angula
-- Estudando Java 
-- Cursando programação estruturada em C
-
 
 ### Habilidades 👨‍🔧
 
 - HTML5
 - CSS3
 - JavaScript
-- PHP
-- BOOTSTRAP 
+- React
+- Linguagem SQL
 - MySQL
-- jQuery
+- Node js
 - Java Basico
 
